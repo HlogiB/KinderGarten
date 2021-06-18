@@ -82,7 +82,7 @@ def talkingAddition():
         num=(i+1)+(i+1)
         engine.say(str(i+1)+"plus"+str(i+1)+"is "+str(num))
         engine.runAndWait()
-        time.sleep(1)
+        time.sleep(2)
 
 def days():
     engine.say("Days of the week")
