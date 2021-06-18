@@ -34,7 +34,7 @@ eightFrame.pack(fill="x")
 
 
 #Lists of aplabets and examples
-Letters=list(string.ascii_lowercase)#Results in A-Z
+Letters=list(string.ascii_lowercase)#Results are A-Z
 name=["Aeroplane","Bicycle","Car","Dam","Elevator","Fridge","Garage","House","Internet","Jelly","Kite"]
 name+=["Land","Money","Nemo","Orange","Plant","Question","Resting","Swimming","Truck","Umbrella","Violin"]
 name+=["Wind","Xenon","Yellow","Zebra"]
