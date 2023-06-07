@@ -101,7 +101,7 @@ def dispalytime():
 labeltime = Label(topFrame, bg="light blue", height=2, padx=20, fg="Black")
 labeltime.pack(side="right")
 
-labelWelcome=Label(topFrame,text="All You Can Learn 4 Kidz",bg="light blue",fg="black",)
+labelWelcome=Label(topFrame,text="All You Can Learn 4 Kidz this is the copy by the way ",bg="light blue",fg="black",)
 labelWelcome.pack(side="left")
 
 buttonText=Button(thirdFrame,bd=0,text="Read out alphabets with name examples",command=talkingLetters,bg="Yellow",fg="Black",height=5)
