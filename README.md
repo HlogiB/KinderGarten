@@ -7,3 +7,4 @@ the app makes it easy for parents to school their children in terms of the app w
 basic lesson commands such us alphabets, days of the week and numbers. The app is more focused 
 on children aged between 4-6 years old 
 
+ReadMe2.txt 
