@@ -5,7 +5,7 @@ import time as tm
 import string
 root=Tk()
 root.geometry("400x600")
-root.title("4KIDZ GIT ")
+root.title("4KIDZ GIT Conflict ")
 #This is the second file conflict
 engine = pyttsx3.init()
 engine.setProperty('rate',160)
