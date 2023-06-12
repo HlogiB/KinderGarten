@@ -10,6 +10,7 @@ root.title("4KIDZ GIT ")
 engine = pyttsx3.init()
 engine.setProperty('rate',160)
 
+#we are inside a conflict branch hopefully this works
 #Frames
 topFrame=Frame(root,bg="light blue")
 topFrame.pack(side="top",fill="x")
